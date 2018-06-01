@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527848313 source:q:\skool\info\feladatok100\utasitasok42\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
