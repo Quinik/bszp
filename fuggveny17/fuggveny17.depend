@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528039206 source:q:\skool\info\feladatok100\fuggveny17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
